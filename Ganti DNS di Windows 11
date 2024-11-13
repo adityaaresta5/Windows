@@ -1,0 +1,13 @@
+Ganti DNS di Windows
+
+// Buka Notepad sebagai administrator:
+Klik Windows > Windows accessories
+Klik kanan pada Notepad > More > Run as administrator
+
+// Buka file hosts:
+Klik File > Open
+Buka folder C:\Windows\System32\drivers\etc
+Pilih All Files, bukan Text Documents
+Pilih file dengan nama “hosts”
+// Tambahkan IP server hosting diikuti dengan nama domain di baris paling bawah
+// Simpan perubahan host file dengan klik menu File dan pilih submenu Save 
